@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/ManageProduct/bin/Debug/net7.0/ManageProduct
+/Users/macos/Desktop/Operator/ManageProduct/bin/Debug/net7.0/ManageProduct.deps.json
+/Users/macos/Desktop/Operator/ManageProduct/bin/Debug/net7.0/ManageProduct.runtimeconfig.json
+/Users/macos/Desktop/Operator/ManageProduct/bin/Debug/net7.0/ManageProduct.dll
+/Users/macos/Desktop/Operator/ManageProduct/bin/Debug/net7.0/ManageProduct.pdb
+/Users/macos/Desktop/Operator/ManageProduct/obj/Debug/net7.0/ManageProduct.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/ManageProduct/obj/Debug/net7.0/ManageProduct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/ManageProduct/obj/Debug/net7.0/ManageProduct.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/ManageProduct/obj/Debug/net7.0/ManageProduct.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/ManageProduct/obj/Debug/net7.0/ManageProduct.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/ManageProduct/obj/Debug/net7.0/ManageProduct.dll
+/Users/macos/Desktop/Operator/ManageProduct/obj/Debug/net7.0/refint/ManageProduct.dll
+/Users/macos/Desktop/Operator/ManageProduct/obj/Debug/net7.0/ManageProduct.pdb
+/Users/macos/Desktop/Operator/ManageProduct/obj/Debug/net7.0/ManageProduct.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/ManageProduct/obj/Debug/net7.0/ref/ManageProduct.dll
